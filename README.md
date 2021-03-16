@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Peter Wallace 👋
+### Hi there 👋 I'm Peter 👋
 
 
 ![](https://komarev.com/ghpvc/?username=cicada-1&color=blueviolet&style=flat)
