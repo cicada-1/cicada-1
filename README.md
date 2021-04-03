@@ -5,5 +5,3 @@
 
 - 🔭 I’m currently working on refining PitStop
 - 🌱 I’m currently learning React
-- ⚡ Fun fact: Rubocop can automatically fix errors that are "autocorrectable".
-
